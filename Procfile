@@ -1,0 +1,1 @@
+kiwi: npm run deploy
